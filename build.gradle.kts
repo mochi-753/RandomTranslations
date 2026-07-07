@@ -9,7 +9,7 @@ object Metadata {
     const val MOD_NAME = "Random Translations"
     const val MOD_VERSION = "1.0.0"
     const val MOD_LICENSE = "MIT"
-    const val MOD_DISPLAY_URL = ""
+    const val MOD_DISPLAY_URL = "https://github.com/mochi-753/RandomTranslations"
     const val MOD_AUTHORS = "Mochi753"
     const val MOD_DESCRIPTION = "The Crazy Mod That Ruins Every Translation"
     const val MOD_GROUP_ID = "io.github.mochi_753"
