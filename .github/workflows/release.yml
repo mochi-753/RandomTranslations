@@ -134,7 +134,7 @@ jobs:
           body_path: CHANGELOG.md
           draft: true
           files: 'artifacts/*.jar'
-          name: "MovingWindow ${{ steps.tag.outputs.release_tag }}"
+          name: "RandomTranslations ${{ steps.tag.outputs.release_tag }}"
           tag_name: ${{ steps.tag.outputs.release_tag }}
         if: inputs.create-github-release
 
