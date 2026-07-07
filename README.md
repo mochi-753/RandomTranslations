@@ -1,5 +1,3 @@
-![Random Translations logo](src/main/resources/logo.png)
-
 # Random Translations
 
 Random Translations is a chaotic Minecraft mod that shuffles the game's text into the wrong places.
