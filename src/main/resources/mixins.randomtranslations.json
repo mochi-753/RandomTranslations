@@ -1,0 +1,17 @@
+{
+    "minVersion": "0.8",
+    "required": true,
+    "package": "io.github.mochi_753.randomtranslations.mixin",
+    "refmap": "mixins.randomtranslations.refmap.json",
+    "compatibilityLevel": "JAVA_17",
+    "mixins": [],
+    "client": [
+        "ClientLanguageMixin"
+    ],
+    "injectors": {
+        "defaultRequire": 1
+    },
+    "overwrites": {
+        "requireAnnotations": true
+    }
+}
